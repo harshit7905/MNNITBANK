@@ -71,6 +71,6 @@ Talking about the features of the Bank Management, a user can create an account 
 1. Copy and paste the below command on the terminal.
    * gcc -o my_app Bank.c binarySearch.c divideandconquer.c extraFunction.c main.c managerDev.c notesRequired.c prompt.c selection.c tsp_approximation.c TSP.c
 2. Then run the following code on the terminal.
-   * ./my_app.exe    
+   * my_app.exe    
    
    
